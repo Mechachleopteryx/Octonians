@@ -1,3 +1,6 @@
 [submodule "tony"]
 	path = tony
 	url = https://www.github.com/standardgalactic/tony
+[submodule "substrate"]
+	path = substrate
+	url = https://github.com/standardgalactic/tony
